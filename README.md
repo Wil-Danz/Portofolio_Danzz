@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
+git clone https://github.com/Wil-Danz/Portofolio_V5.git
 cd Portofolio_V5
 ```
 
@@ -234,7 +234,7 @@ We would appreciate it if you decide to use this project. Please include proper 
 
 If you have any questions or need help with the setup, feel free to reach out\!
 
-**Eki Zulfar Rachman**
+**Referensi By : Eki Zulfar Rachman**
 
   - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
   - GitHub: [EkiZR](https://github.com/EkiZR)
